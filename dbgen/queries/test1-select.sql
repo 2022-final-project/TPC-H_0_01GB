@@ -1,0 +1,10 @@
+SELECT * FROM test1 WHERE name = ':0';
+SELECT * FROM test1 WHERE name = ':1';
+SELECT * FROM test1 WHERE name = ':2';
+SELECT * FROM test1 WHERE name = ':3';
+SELECT * FROM test1 WHERE name = ':4';
+SELECT * FROM test1 WHERE name = ':5';
+SELECT * FROM test1 WHERE name = ':6';
+SELECT * FROM test1 WHERE name = ':7';
+SELECT * FROM test1 WHERE name = ':8';
+SELECT * FROM test1 WHERE name = ':9';

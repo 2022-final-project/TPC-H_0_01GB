@@ -1,0 +1,11 @@
+SET
+ current_setting 
+-----------------
+ 32
+(1 row)
+
+ o_orderpriority | order_count 
+-----------------+-------------
+ 1-URGENT        |       41746
+(1 row)
+

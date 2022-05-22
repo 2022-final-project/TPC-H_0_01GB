@@ -1,0 +1,10 @@
+SET
+ current_setting 
+-----------------
+ 32
+(1 row)
+
+ n_name | revenue 
+--------+---------
+(0 rows)
+
